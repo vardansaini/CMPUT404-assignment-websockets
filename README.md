@@ -59,3 +59,10 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Vardan Saini
+
+references
+============
+# https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+# https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+
